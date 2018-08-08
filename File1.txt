@@ -2,5 +2,3 @@ this is test comment
 From github
 
 Again from github
-
-Doing from local
