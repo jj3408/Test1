@@ -4,7 +4,4 @@ this is test comment
 
 
 
-
-=======
-Removed
->>>>>>> origin/master
+This is second comment
