@@ -1,10 +1,5 @@
 this is test comment
 
-<<<<<<< HEAD
-
 
 
 This is second comment
-=======
-Removed
->>>>>>> c6abfdbbf7abde1eae44c22fb194aafeb15b8ba0
