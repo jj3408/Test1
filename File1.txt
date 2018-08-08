@@ -1,6 +1,2 @@
 this is test comment
-
-
-
-
-From local
+Removed
