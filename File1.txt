@@ -1,6 +1,10 @@
 this is test comment
+<<<<<<< HEAD
 
 
 
 
 
+=======
+Removed
+>>>>>>> origin/master
